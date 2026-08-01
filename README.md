@@ -1,73 +1,88 @@
-# 👋 About Me
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Hi%20There,%20I'm%20rrnsz&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer&descAlignY=55&descAlign=50" width="100%"/>
+
+<a href="https://github.com/rrnsz">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Building+clean%2C+production-ready+apps;Always+learning+something+new" alt="Typing SVG" />
+</a>
+
+</div>
+
+<br/>
+
+## 👋 About Me
 
 *[Write 2-4 sentences: who you are, what you focus on, what kind of problems you like solving.]*
 
-- 🔭 Currently working on: 
-- 🌱 Currently learning: 
-- 💬 Ask me about: 
-- 📫 Reach me: 
+```yaml
+Currently working on:  
+Currently learning:    
+Ask me about:          
+Reach me at:           
+```
 
----
+<br/>
 
-## 🌐 Socials
+## 🌐 Connect With Me
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
-<!-- swap YOUR-LINKEDIN and the portfolio URL for your real links -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
----
+</div>
+
+<br/>
 
 ## 💻 Tech Stack
 
-**Languages**
+<div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-<!-- add/remove languages you actually use -->
+<img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,nodejs,express,fastapi,postgres,mongodb,docker,git&theme=dark" />
 
-**Frontend**
+</div>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<br/>
 
-**Backend**
+## 📊 GitHub Analytics
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+<div align="center">
 
-**Databases & Tools**
+<img src="https://github-readme-stats.vercel.app/api?username=rrnsz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=rrnsz&theme=tokyonight&hide_border=true&background=0d1117" width="49%"/>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrnsz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rrnsz&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="49%"/>
 
----
+</div>
 
-## 📊 GitHub Stats
+<br/>
 
-![rrnsz's GitHub stats](https://github-readme-stats.vercel.app/api?username=rrnsz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+## 🐍 Contribution Snake
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rrnsz&layout=compact&theme=tokyonight&hide_border=true)
+<div align="center">
 
-![Streak Stats](https://streak-stats.demolab.com/?user=rrnsz&theme=tokyonight&hide_border=true)
+<img src="https://raw.githubusercontent.com/rrnsz/rrnsz/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
----
+</div>
+
+> Setup note below — this one needs a small one-time GitHub Action, not just a paste-in image.
+
+<br/>
 
 ## 📌 Featured Projects
 
 <!--
-  Your account currently has 3 repos, all freeCodeCamp curriculum exercises
-  (rdb-alpha, Build-a-Celestial-Bodies-Database, Build-a-Student-Database-Part-1).
-  These are fine to keep as learning history, but they're not strong "featured
-  project" material for a professional profile — leave this section commented
-  out (or hidden) until you have 2-3 original, non-tutorial projects to list.
-  When ready, use this format:
+  Your account currently has 3 repos, all freeCodeCamp curriculum exercises.
+  Leave this section commented out until you have 2-3 original, non-tutorial
+  projects to showcase. Format for when you're ready:
 
-  ### [Project Name](https://github.com/rrnsz/project-repo)
-  Short one-line description of what it does and why it's interesting.
-  `Tech: React, Node.js, PostgreSQL`
+  ### 🔹 [Project Name](https://github.com/rrnsz/project-repo)
+  One-line description of what it does and why it's interesting.
+  `Tech: React · Node.js · PostgreSQL`
 -->
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=100&section=footer" width="100%"/>
