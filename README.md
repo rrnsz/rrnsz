@@ -14,12 +14,7 @@
 
 I'm a Full-Stack Software Developer based in Riyadh, Saudi Arabia, with a passion for building and solving real-world problems through code. I recently graduated from Multimedia University (MMU), Malaysia, and love working across the stack — from backend logic to polished front-end experiences. I'm comfortable with JavaScript, Python, Java, and SQL, and enjoy building with frameworks like Django, React, and Next.js. I'm always exploring new technologies, architecting microservices, and tackling complex technical challenges.
 
-```yaml
-Currently working on:  
-Currently learning:    
-Ask me about:          
-Reach me at:           
-```
+
 
 <br/>
 
