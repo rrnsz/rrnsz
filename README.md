@@ -91,17 +91,7 @@ I'm a Full-Stack Software Developer based in Riyadh, Saudi Arabia, with a passio
 
 <br/>
 
-## 📌 Featured Projects
 
-<!--
-  Your account currently has 3 repos, all freeCodeCamp curriculum exercises.
-  Leave this section commented out until you have 2-3 original, non-tutorial
-  projects to showcase. Format for when you're ready:
-
-  ### 🔹 [Project Name](https://github.com/rrnsz/project-repo)
-  One-line description of what it does and why it's interesting.
-  `Tech: React · Node.js · PostgreSQL`
--->
 
 <br/>
 
