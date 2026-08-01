@@ -12,7 +12,7 @@
 
 ## 👋 About Me
 
-*[Write 2-4 sentences: who you are, what you focus on, what kind of problems you like solving.]*
+I'm a Full-Stack Software Developer based in Riyadh, Saudi Arabia, with a passion for building and solving real-world problems through code. I recently graduated from Multimedia University (MMU), Malaysia, and love working across the stack — from backend logic to polished front-end experiences. I'm comfortable with JavaScript, Python, Java, and SQL, and enjoy building with frameworks like Django, React, and Next.js. I'm always exploring new technologies, architecting microservices, and tackling complex technical challenges.
 
 ```yaml
 Currently working on:  
@@ -39,7 +39,7 @@ Reach me at:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,nodejs,express,fastapi,postgres,mongodb,docker,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,py,java,react,nextjs,django,postgres,git&theme=dark" />
 
 </div>
 
