@@ -14,7 +14,12 @@
 
 I'm a Full-Stack Software Developer based in Riyadh, Saudi Arabia, with a passion for building and solving real-world problems through code. I recently graduated from Multimedia University (MMU), Malaysia, and love working across the stack — from backend logic to polished front-end experiences. I'm comfortable with JavaScript, Python, Java, and SQL, and enjoy building with frameworks like Django, React, and Next.js. I'm always exploring new technologies, architecting microservices, and tackling complex technical challenges.
 
-
+```yaml
+Currently working on:  
+Currently learning:    
+Ask me about:          
+Reach me at:           
+```
 
 <br/>
 
@@ -22,7 +27,7 @@ I'm a Full-Stack Software Developer based in Riyadh, Saudi Arabia, with a passio
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alkadi-mohamadnour-ab1a50257/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
 [![Portfolio](https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
@@ -31,8 +36,9 @@ I'm a Full-Stack Software Developer based in Riyadh, Saudi Arabia, with a passio
 <br/>
 
 ## 💻 Tech Stack
- 
+
 <div align="center">
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -59,7 +65,7 @@ I'm a Full-Stack Software Developer based in Riyadh, Saudi Arabia, with a passio
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
- 
+
 </div>
 
 <br/>
