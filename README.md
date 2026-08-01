@@ -87,7 +87,6 @@ I'm a Full-Stack Software Developer based in Riyadh, Saudi Arabia, with a passio
 
 </div>
 
-> Setup note below — this one needs a small one-time GitHub Action, not just a paste-in image.
 
 <br/>
 
