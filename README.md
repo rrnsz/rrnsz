@@ -90,8 +90,6 @@ I'm a Full-Stack Software Developer based in Riyadh, Saudi Arabia, with a passio
 
 <br/>
 
-
-
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=100&section=footer" width="100%"/>
