@@ -83,10 +83,7 @@ I'm a Full-Stack Software Developer based in Riyadh, Saudi Arabia, with a passio
 <img src="https://raw.githubusercontent.com/rrnsz/rrnsz/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
-
-
 <br/>
 
 <br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=100&section=footer" width="100%"/>
